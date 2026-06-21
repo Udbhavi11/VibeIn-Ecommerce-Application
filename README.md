@@ -90,23 +90,23 @@ src
 
 ### Home Page
 
-(Add screenshot)
+![Home Page](src/main/webapp/assets/screenshots/home-page.png)
 
 ### Login Page
 
-(Add screenshot)
+![Login Page](src/main/webapp/assets/screenshots/login-page.png)
 
 ### Product Page
 
-(Add screenshot)
+![Product Page](src/main/webapp/assets/screenshots/products-page.png)
 
 ### Shopping Cart
 
-(Add screenshot)
+![Shopping Cart](src/main/webapp/assets/screenshots/cart-page.png)
 
 ### Profile Page
 
-(Add screenshot)
+![Profile Page](src/main/webapp/assets/screenshots/profile-page.png)
 
 ---
 
