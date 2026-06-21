@@ -1,0 +1,46 @@
+.orders-section{
+	padding:60px 0;
+	min-height:80vh;
+	background:#f5f5f5;
+}
+
+.orders-section h2{
+	text-align:center;
+	margin-bottom:30px;
+}
+
+.orders-table{
+	width:100%;
+	border-collapse:collapse;
+	background:white;
+	box-shadow:0 2px 10px rgba(0,0,0,0.1);
+}
+
+.orders-table th,
+.orders-table td{
+	padding:15px;
+	border:1px solid #ddd;
+	text-align:center;
+}
+
+.orders-table th{
+	background:#6c5ce7;
+	color:white;
+}
+
+.empty-orders{
+	background:white;
+	padding:40px;
+	text-align:center;
+	border-radius:10px;
+}
+
+.shop-btn{
+	display:inline-block;
+	margin-top:20px;
+	padding:12px 20px;
+	background:#6c5ce7;
+	color:white;
+	text-decoration:none;
+	border-radius:6px;
+}
